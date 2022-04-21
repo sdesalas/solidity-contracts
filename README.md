@@ -1,2 +1,3 @@
 # solidity-contracts
-Some useful solidity contracts. Feel free to clone.
+
+Some useful solidity contracts. Feel free to copy, but dont forget to attribute the author (me).
