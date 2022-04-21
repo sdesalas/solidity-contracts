@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-// Modification of: OpenZeppelin Contracts v4.4.1 (finance/PaymentSplitter.sol)
+// Based on: OpenZeppelin Contracts v4.4.1 (finance/PaymentSplitter.sol)
 
 pragma solidity ^0.8.0;
 
@@ -9,6 +9,7 @@ import "../OpenZepplin/Address.sol";
 
 /**
  * @title MultiDonation
+ * @author Steven de Salas (https://github.com/sdesalas)
  * @dev This contract allows to split Ether or ERC20 payments among a group of accounts each with their relevant share. 
  *
  * The splitting of funds is handled transparently by the contract.
