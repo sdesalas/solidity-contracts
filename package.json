@@ -1,0 +1,23 @@
+{
+  "name": "solidity-contracts",
+  "version": "1.0.0",
+  "description": "Some useful solidity contracts. Feel free to clone.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdesalas/solidity-contracts.git"
+  },
+  "keywords": [
+    "solidity",
+    "contracts"
+  ],
+  "author": "Steven de Salas",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/sdesalas/solidity-contracts/issues"
+  },
+  "homepage": "https://github.com/sdesalas/solidity-contracts#readme"
+}
