@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MIT
+// SPDX-License-Identifier: Apache-2.0
 // Based on: OpenZeppelin Contracts v4.4.1 (finance/PaymentSplitter.sol)
 
 pragma solidity ^0.8.0;
